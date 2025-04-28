@@ -2,6 +2,7 @@
 
 Je suis étudiante en dernière année à **Polytech Paris-Saclay** en *Informatique et Ingénierie Mathématique* et je termine une alternance de 3 ans chez **Alcatel Submarine Networks** en R&D. 💻  
 J'ai acquis une solide expérience en **développement web**, principalement avec **React**, **Vue**, **PHP**, et **SQL**.
+
 🎯 Actuellement à la recherche d'un poste d'Ingénieure Développement Web à partir de septembre 2025, pour continuer à apprendre et contribuer à des projets innovants.
 
 ## Ce que je fais 👩‍💻
